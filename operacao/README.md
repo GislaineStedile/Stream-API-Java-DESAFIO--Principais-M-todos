@@ -33,7 +33,7 @@ Utilizando a Stream API, realize a soma dos dígitos de todos os números da lis
 - Desafio 9 - Verificar se todos os números da lista são distintos (não se repetem):
 Com a Stream API, verifique se todos os números da lista são distintos (não se repetem) e exiba o resultado no console.
 
-= Desafio 10 - Agrupe os valores ímpares múltiplos de 3 ou de 5:
+- Desafio 10 - Agrupe os valores ímpares múltiplos de 3 ou de 5:
 Utilize a Stream API para agrupar os valores ímpares múltiplos de 3 ou de 5 e exiba o resultado no console.
 
 - Desafio 11 - Encontre a soma dos quadrados de todos os números da lista:
