@@ -12,7 +12,7 @@ Crie um programa que utilize a Stream API para ordenar a lista de números em or
 - Desafio 2 - Imprima a soma dos números pares da lista:
 Utilizando a Stream API, realize a soma dos números pares da lista e exiba o resultado no console.
 
- -Desafio 3 - Verifique se todos os números da lista são positivos:
+- Desafio 3 - Verifique se todos os números da lista são positivos:
 Com a ajuda da Stream API, verifique se todos os números da lista são positivos e exiba o resultado no console.
 
 - Desafio 4 - Remova todos os valores ímpares:
